@@ -6,9 +6,9 @@ QA Engineer & QA Educator based in Utah, USA
 
 ## 🧪 What I Do
 
-- **Automation** — JavaScript, WebdriverIO, Nightwatch
 - **AI** — Hands-on projects with Claude Code, daily AI workflows, prompt engineering
 - **API Testing** — Endpoint testing, Postman
+- **Automation** — JavaScript, WebdriverIO, Nightwatch
 - **Manual Testing** — Exploratory, regression, accessibility, cross-platform
 - **Mobile Testing** — Native builds, white-labeled apps, device-level QA
 - **Teaching** — Built & led the [Software QA program at Mountainland Technical College](https://github.com/rippsam/QA-Courses-Created-and-Taught)
