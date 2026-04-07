@@ -49,6 +49,7 @@ QA Engineer & QA Educator based in Utah, USA
 ---
 
 **Testing:** Automation Testing · API Testing · Accessibility Testing · Mobile Testing · Regression Testing · Web Testing 
+
 **Methodologies:** Agile Methodologies · Waterfall Methodology 
 
 ---
