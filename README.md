@@ -67,7 +67,7 @@ Curriculum and course materials from the Software QA program I built and taught 
 
 | Company | Role | Highlights |
 |---|---|---|
-| Mountainland Technical College | Program Lead – SQA | Built QA program from scratch; maintained and taught all courses, managed advisory board |
+| Mountainland Technical College | Program Lead – Software QA | Built QA program from scratch; maintained and taught all courses, managed advisory board |
 | MX Technologies | QA Engineer | Accessibility testing, API testing, mobile white-label builds, Agile Kanban |
 | eFileCabinet | QA Engineer | Introduced automation; mentored team on automation and test cases |
 
