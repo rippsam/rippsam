@@ -79,4 +79,4 @@ Bugs that I have found during my day to day use of software and some bugs I have
 
 ## 📬 Let's Connect
 
-📧 [Email Me](samrippsjobs@gmail.com) | 📧 [LinkedIn](https://www.linkedin.com/in/samripplinger/)
+📧 [Email Me](samrippsjobs@gmail.com) | 🤝 [LinkedIn](https://www.linkedin.com/in/samripplinger/)
