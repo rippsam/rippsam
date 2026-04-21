@@ -63,7 +63,7 @@ End-to-end automated tests built with WebdriverIO. Demonstrates real-world autom
 Curriculum and course materials from the Software QA program I built and taught at Mountainland Technical College. Covers core QA concepts, tools, and best practices for aspiring engineers.
 
 ### 🐞 [Bug-Tickets](https://github.com/rippsam/Bug_Tickets)
-Bugs that I have found during my day to day use of software and some bugs I have found professionally.
+Bugs that I have found during my day to day use of software and professionally.
 
 ---
 
