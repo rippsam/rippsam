@@ -60,10 +60,13 @@ QA Engineer & QA Educator based in Utah, USA
 End-to-end automated tests built with WebdriverIO. Demonstrates real-world automation case work with AI-assisted development.
 
 ### 📚 [QA-Courses-Created-and-Taught](https://github.com/rippsam/QA-Courses-Created-and-Taught)
-Curriculum and course materials from the Software QA program I built and taught at Mountainland Technical College. Covers core QA concepts, tools, and best practices for aspiring engineers.
+Curriculum and course materials from the Software QA program I built and taught at Mountainland Technical College. Covers core QA concepts, tools, and best practices for aspiring QA engineers.
 
 ### 🐞 [Bug-Tickets](https://github.com/rippsam/Bug_Tickets)
 Bugs that I have found during my day to day use of software and professionally.
+
+### 📝 [Test-Cases](https://github.com/rippsam/Test-Cases)
+Test cases that I have created for testing and teaching purposes.
 
 ---
 
