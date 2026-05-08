@@ -11,7 +11,7 @@ QA Engineer & QA Educator based in Utah, USA
 - **Automation** — JavaScript, WebdriverIO, Nightwatch
 - **Manual Testing** — Exploratory, regression, accessibility, cross-platform
 - **Mobile Testing** — Native builds, white-labeled apps, device-level QA
-- **Teaching New QAs** — Build & lead [Software QA program at Mountainland Technical College](https://github.com/rippsam/QA-Courses-Created-and-Taught)
+- **Teaching New QAs** — Built & lead [Software QA program at Mountainland Technical College](https://github.com/rippsam/QA-Courses-Created-and-Taught)
 
 ---
 
